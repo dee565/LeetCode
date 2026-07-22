@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/dee565/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dee565/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/dee565/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/dee565/LeetCode/tree/master/0190-reverse-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/dee565/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/dee565/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/dee565/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/dee565/LeetCode/tree/master/0190-reverse-bits) |
 ## Matrix
 |  |
 | ------- |
