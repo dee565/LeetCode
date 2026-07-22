@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dee565/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/dee565/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/dee565/LeetCode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/dee565/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/dee565/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/dee565/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/dee565/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/dee565/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dee565/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dee565/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/dee565/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/dee565/LeetCode/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
