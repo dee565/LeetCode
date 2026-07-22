@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/dee565/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/dee565/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/dee565/LeetCode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/dee565/LeetCode/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dee565/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dee565/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dee565/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/dee565/LeetCode/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/dee565/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dee565/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dee565/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/dee565/LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/dee565/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dee565/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dee565/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/dee565/LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -263,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dee565/LeetCode/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/dee565/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
