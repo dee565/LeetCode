@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dee565/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/dee565/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/dee565/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/dee565/LeetCode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dee565/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/dee565/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/dee565/LeetCode/tree/master/0258-add-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dee565/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dee565/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
