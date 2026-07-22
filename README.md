@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dee565/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/dee565/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dee565/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/dee565/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/dee565/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/dee565/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/dee565/LeetCode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/dee565/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
