@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/dee565/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/dee565/LeetCode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/dee565/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/dee565/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/dee565/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/dee565/LeetCode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/dee565/LeetCode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/dee565/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dee565/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/dee565/LeetCode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/dee565/LeetCode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/dee565/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Memoization
 |  |
 | ------- |
