@@ -1,17 +1,14 @@
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
 class Solution:
-    def evalRPN(self, tokens: List[str]) -> int:
-        def calc(a,b,op):
-            if op == '+':return a+b
-            elif op == "-":return a-b
-            elif op == "/":return int(a/b)
-            elif op == "*":return a*b
-        stack = []
-        for t in tokens:
-            if t in {"+", "*", "-", "/"}:
-                a = stack.pop(-1)
-                b = stack.pop(-1)
-                stack.append(calc(b,a,t))
-            else:
-                stack.append(int(t))
-        return stack[0]
+    def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
+        a, b = headA, headB
+        while a != b:
+            a = a.next if a else headB
+            b = b.next if b else headA
+        return a
         
