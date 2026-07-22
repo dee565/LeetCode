@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/dee565/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/dee565/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dee565/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/dee565/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/dee565/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/dee565/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dee565/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/dee565/LeetCode/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/dee565/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/dee565/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dee565/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/dee565/LeetCode/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dee565/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dee565/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/dee565/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dee565/LeetCode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dee565/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dee565/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
