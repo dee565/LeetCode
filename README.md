@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/dee565/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dee565/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/dee565/LeetCode/tree/master/0200-number-of-islands) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/dee565/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -383,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/dee565/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/dee565/LeetCode/tree/master/1122-relative-sort-array) |
+## Graph Theory
+|  |
+| ------- |
+| [1129-shortest-path-with-alternating-colors](https://github.com/dee565/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 <!---LeetCode Topics End-->
