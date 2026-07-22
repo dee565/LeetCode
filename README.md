@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/dee565/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dee565/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/dee565/LeetCode/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/dee565/LeetCode/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/dee565/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dee565/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/dee565/LeetCode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/dee565/LeetCode/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dee565/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dee565/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dee565/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0224-basic-calculator](https://github.com/dee565/LeetCode/tree/master/0224-basic-calculator) |
 ## Array
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dee565/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dee565/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dee565/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/dee565/LeetCode/tree/master/0224-basic-calculator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
