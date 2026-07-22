@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/dee565/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/dee565/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/dee565/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/dee565/LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/dee565/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dee565/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/dee565/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/dee565/LeetCode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dee565/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/dee565/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/dee565/LeetCode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/dee565/LeetCode/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
