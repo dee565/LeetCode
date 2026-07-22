@@ -396,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-shortest-path-with-alternating-colors](https://github.com/dee565/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/dee565/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
