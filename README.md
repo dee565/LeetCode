@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/dee565/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dee565/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/dee565/LeetCode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/dee565/LeetCode/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/dee565/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/dee565/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dee565/LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/dee565/LeetCode/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/dee565/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/dee565/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/dee565/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/dee565/LeetCode/tree/master/0394-decode-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
