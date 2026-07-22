@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dee565/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/dee565/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dee565/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/dee565/LeetCode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dee565/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/dee565/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/dee565/LeetCode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
