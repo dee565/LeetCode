@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/dee565/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dee565/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/dee565/LeetCode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/dee565/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/dee565/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/dee565/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/dee565/LeetCode/tree/master/0136-single-number) |
 ## Matrix
 |  |
 | ------- |
