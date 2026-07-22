@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dee565/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/dee565/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dee565/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/dee565/LeetCode/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dee565/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dee565/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/dee565/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/dee565/LeetCode/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dee565/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/dee565/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/dee565/LeetCode/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/dee565/LeetCode/tree/master/0179-largest-number) |
 ## Trie
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dee565/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/dee565/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dee565/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/dee565/LeetCode/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
