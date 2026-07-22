@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dee565/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dee565/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dee565/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/dee565/LeetCode/tree/master/0016-3sum-closest) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dee565/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/dee565/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/dee565/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/dee565/LeetCode/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dee565/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/dee565/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
