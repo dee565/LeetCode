@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dee565/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/dee565/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/dee565/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/dee565/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dee565/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/dee565/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/dee565/LeetCode/tree/master/0118-pascals-triangle) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dee565/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/dee565/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dee565/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/dee565/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/dee565/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dee565/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dee565/LeetCode/tree/master/0055-jump-game) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dee565/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/dee565/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dee565/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/dee565/LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/dee565/LeetCode/tree/master/0179-largest-number) |
