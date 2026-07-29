@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dee565/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/dee565/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/dee565/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/dee565/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/dee565/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/dee565/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dee565/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/dee565/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dee565/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/dee565/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/dee565/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/dee565/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dee565/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/dee565/LeetCode/tree/master/0118-pascals-triangle) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/dee565/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/dee565/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/dee565/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/dee565/LeetCode/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dee565/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dee565/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dee565/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/dee565/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/dee565/LeetCode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/dee565/LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/dee565/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/dee565/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dee565/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/dee565/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/dee565/LeetCode/tree/master/0101-symmetric-tree) |
