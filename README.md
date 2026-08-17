@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/dee565/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/dee565/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dee565/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/dee565/LeetCode/tree/master/1563-stone-game-v) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dee565/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Linked List
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/dee565/LeetCode/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dee565/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/dee565/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/dee565/LeetCode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dee565/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dee565/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dee565/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/dee565/LeetCode/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/dee565/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dee565/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/dee565/LeetCode/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/dee565/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/dee565/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/dee565/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/dee565/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dee565/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/dee565/LeetCode/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
