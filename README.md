@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/dee565/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dee565/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/dee565/LeetCode/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/dee565/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/dee565/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/dee565/LeetCode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/dee565/LeetCode/tree/master/0739-daily-temperatures) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/dee565/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/dee565/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
@@ -686,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dee565/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/dee565/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
