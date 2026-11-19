@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dee565/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dee565/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/dee565/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/dee565/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dee565/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/dee565/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/dee565/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dee565/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/dee565/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dee565/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/dee565/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dee565/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dee565/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/dee565/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/dee565/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dee565/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -703,4 +706,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/dee565/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/dee565/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
