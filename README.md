@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dee565/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/dee565/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/dee565/LeetCode/tree/master/0743-network-delay-time) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dee565/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/dee565/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dee565/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/dee565/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/dee565/LeetCode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dee565/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dee565/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/dee565/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dee565/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dee565/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/dee565/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/dee565/LeetCode/tree/master/0743-network-delay-time) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/dee565/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dee565/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/dee565/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/dee565/LeetCode/tree/master/0743-network-delay-time) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/dee565/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dee565/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/dee565/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -735,4 +739,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dee565/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/dee565/LeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/dee565/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
